@@ -14,7 +14,7 @@ A full-stack e-commerce application with Stripe payment integration, featuring p
 1. **Clone and setup:**
    ```bash
    git clone <repository-url>
-   cd stripe-integration
+   cd E-Commerce-with-stripe
    ```
 
 2. **Backend setup:**
@@ -66,7 +66,7 @@ Use Stripe test cards:
 ## Project Structure
 
 ```
-stripe-integration/
+E-Commerce-with-stripe/
 ├── backend/
 │   ├── src/
 │   │   ├── config/          # Database & Stripe config
